@@ -1,0 +1,3 @@
+For water effects in your game - download and install the Water FX Pack available here:
+https://www.assetstore.unity3d.com/en/#!/content/19248
+
